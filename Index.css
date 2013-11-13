@@ -5,8 +5,7 @@
 }
 
 .snapchat-article {
-	font-size: 14px;
-	font-family: Gotham, Sans-serif;
+	max-width: 500px;
 
 }
 
@@ -19,5 +18,9 @@
 p {
 	font-size: 14px;
 	font-family: Gotham, Sans-serif;
+
+}
+
+.continue{
 
 }
