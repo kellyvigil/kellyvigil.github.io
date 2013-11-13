@@ -5,11 +5,17 @@
 }
 
 .snapchat-article {
-	
+
 }
 
 .ghana-photo{
 	max-height: 100%;
 	max-width: 100%;
+
+}
+
+p {
+	font-size: 14px
+	font-family: Gotham, Sans-serif;
 
 }
