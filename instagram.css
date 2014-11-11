@@ -1,0 +1,138 @@
+body {
+	margin: 0px;
+	
+}
+
+#feed{
+
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #FFFFB6;
+  display: block;
+  
+
+
+
+}
+
+.main{
+  
+  margin-right: ;
+  width: 100%;
+  height: 100%;
+  float: right;
+  
+  overflow: scroll;
+  padding: 0;
+  margin: 0;
+  
+  text-align: center;
+  position: relative;
+  background-color: white; 
+  border-top:;
+  background-color: #FFFFB6;
+  
+
+
+}
+
+.main2{
+  
+  margin-right: ;
+  width: 100%;
+  height: 100%;
+  float: right;
+  
+  overflow: scroll;
+  padding: 0;
+  margin: 0;
+  
+  text-align: center;
+  position: relative;
+  background-color: white; 
+  border-top: ;
+  background-color: #FFFFB6;
+  
+
+
+}
+
+.main3{
+  
+  margin-right: ;
+  width: 100%;
+  height: 100%;
+  float: right;
+  
+  overflow: scroll;
+  padding: 0;
+  margin: 0;
+  
+  text-align: center;
+  position: relative;
+  background-color: white; 
+  border-top: ;
+  background-color: #FFFFB6;
+  
+
+
+}
+
+.ig-wrapper {
+  width: 30%;
+  height: 100%;
+  margin: 0 1.5%;
+  position: relative;
+  float: left;
+ 
+  
+  background-color: #FFFFB6;
+  overflow: scroll;
+
+
+
+}
+
+
+.ig p {
+	width: 90%;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 1.25em;
+  color: black;
+  margin-top: 8px;
+  text-align: center;
+}
+
+.instagram-info h1 {
+  float: right;
+  text-align: center;
+  font-weight: 900;
+  width: 100%;
+  font-size: 3em;
+  color: rgb(90, 90, 90);
+  line-height: 100px;
+  
+
+}
+
+.ig{
+  
+  width: 90%;
+  min-width: 200px;
+  display: inline-block;
+  position: relative;
+  margin: 0 7px;
+  background-color: #FFFFB6;
+
+}
+
+
+
+.ig img{
+
+  width: 100%;
+  height: auto;
+ 
+}
