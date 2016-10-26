@@ -13,13 +13,15 @@ body{
 }
 
 .title{
-	height: 30%;
+	height: 40%;
 	width: 100%;
 	margin: 0 auto;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	resize: both;
+	position: static;;
+
 
 }
 
@@ -31,14 +33,13 @@ body{
 
 
 #countdown{
-	background: ;
   height: 20%;
   width: 100%;
   margin: 0 auto;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  resize: both;
+	justify-content: center;
+	align-items: center;
+
 
 }
 
@@ -49,16 +50,19 @@ body{
   overflow: auto;
 	padding: 10px;
 
+
+
 }
 
 .wrapper{
 width: 100%;
+margin: 10px;
 
 }
 
 .text{
 	margin: 0	auto;
-	font-size: 10em;
+	font-size: 15vw;
 
 }
 
