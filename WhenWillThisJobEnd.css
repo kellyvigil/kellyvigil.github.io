@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, sans-serif;
 	font-weight: bold;
 	text-shadow: 1px 1px 5px #999999;
 }
@@ -20,7 +20,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	resize: both;
-	position: static;;
+	position: static;
 
 
 }
