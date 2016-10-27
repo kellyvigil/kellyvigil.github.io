@@ -54,5 +54,6 @@ img{
 	align-items: center;
 	resize: both;
 	position: static;
+	font-size: 2vw;
 	color: #ce2724;
 }
