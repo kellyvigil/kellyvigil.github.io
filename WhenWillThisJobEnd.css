@@ -5,6 +5,19 @@ body{
 	text-shadow: 1px 1px 5px #999999;
 }
 
+::-moz-selection {
+
+	background-color: #231f20;
+
+}
+::selection {
+
+	background-color: #231f20;
+
+
+
+}
+
 .background{
 	background: #e8e9d7;
 	width: 100%;
